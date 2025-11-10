@@ -190,17 +190,16 @@ __21.__ What two characters reunite in Book 16? _375_
 
 __22.__ Who is Eumaeus? _368_
 
->
-
+> Eumaeus is the loyal swineherd of Odysseus.
 
 __23.__ What does Odysseus tell Telemachus they must do? _377_
 
->
+> Go to the palace, Odysseus will arrive in disguise, endure the abuse, hide the weapons, make an excuse, leave out weapons for themselves, keep Odysseus's identity a secret.
 
 __24.__ What major topic does Telemachus' response to his father's plan touch on? _378_
 
->
+> The loyalty and disloyalty of the household staff.
 
 __25.__ Define hubris.
 
->
+> Hubris is a term from Greek tragedy that means excessive pride, arrogance, or overconfidence, especially when it leads to the defiance of the gods and ultimately results in a person's downfall.
