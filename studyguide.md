@@ -1,5 +1,20 @@
 # The Odyssey
 
+## Major Topics of _The Odyssey_
+
+1. Fate vs. Free Will
+2. Human beings and relationships to the supernatural
+3. Fidelity
+4. Piety, customs, justice
+5. Cunning/disguise
+6. Self restraint
+7. Glory/honor
+8. Xenia
+
+## Major symbols of _The Odyssey_
+
+Birds, bird omens, food meals (play close attention to meals!)
+
 ## 1-8
 
 __1.__ What muse does Homer invoke at the beginning of the story? _105_
