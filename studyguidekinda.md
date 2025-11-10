@@ -166,7 +166,7 @@ __15.__ Where does Alcinous tell Odysseus that he will go next? (Finally!) _318_
 
 __16.__ For what stated reason does Athena say that she went to Sparta, abandoning Odysseus at the end of his journey? _330_
 
->
+> To bring Telemachus home
 
 __17.__ What major topic does Eumaeus explain to Odysseus as Book 14 opens? _334_
 
@@ -174,7 +174,7 @@ __17.__ What major topic does Eumaeus explain to Odysseus as Book 14 opens? _334
 
 __18.__ From where does Castor Hylacides come? _338_
 
->
+> Castor Hylacides comes from Crete.
 
 __19.__ Name one of the two things Eumaeus gives to Odysseus that prove his obedience to the rules of Xenia. _347-8_
 
@@ -182,7 +182,7 @@ __19.__ Name one of the two things Eumaeus gives to Odysseus that prove his obed
 
 __20.__ As Telemachus prepares to leave Sparta, he sees eagle holding a goose. What does that omen mean? _355_
 
->
+> Odysseus will soon return home and take his revenge on the suitors.
 
 __21.__ What two characters reunite in Book 16? _375_
 
