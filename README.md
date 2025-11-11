@@ -1,5 +1,8 @@
 # AC English 1
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/somestudyguides/ACEnglish1)
+![GitHub last commit](https://img.shields.io/github/last-commit/somestudyguides/ACEnglish1)
+
 [The Odyssey](TheOdyssey)
 
 ## License
