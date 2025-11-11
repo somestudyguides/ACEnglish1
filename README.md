@@ -1,5 +1,4 @@
 # AC English 1
----
 
 ## License
 
